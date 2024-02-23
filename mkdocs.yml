@@ -1,0 +1,9 @@
+site_name: My Docs
+
+nav:
+   - Home: 'index.md'
+   - WA Mkdocs hodina: 'wa_hodina.md'
+   - Maturita: 'maturita.md'
+
+theme:
+    name: dracula
