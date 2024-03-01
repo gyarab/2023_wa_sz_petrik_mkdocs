@@ -7,3 +7,6 @@ nav:
 
 theme:
     name: dracula
+
+extra_css:
+  - style.css    
