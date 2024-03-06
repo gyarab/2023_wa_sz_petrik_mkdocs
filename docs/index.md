@@ -9,6 +9,9 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
+Built webside: [2023_wa_sz_petrik_mkdocs](https://gyarab.github.io/2023_wa_sz_petrik_mkdocs/)
+
+
 ## Project layout
 
     mkdocs.yml    # The configuration file.

@@ -1,7 +1,22 @@
-body{
+.div {
     background-color: burlywood;
 }
 
 h1 {
-    color: rgb(147, 173, 27)
+    color: rgb(72, 179, 241)
   }
+
+
+.dot-ul {
+    content: url(Banner_Bomb_King.png) ;
+    width: 95%;
+    height: auto;
+}
+
+.drac-text-center::AFTER {
+    content:   "Ohodnoceno 11/10 "; 
+    font-weight: lighter;
+    color: rgb(153, 153, 153);
+    font-size: medium;
+     
+}

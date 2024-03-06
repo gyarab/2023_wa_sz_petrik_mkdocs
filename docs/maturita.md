@@ -29,17 +29,20 @@ Seznam maturitních otázek GA [zde](https://www.gyarab.cz/media/maturita/INF_E.
 24. Práce s textem v Unixu
 25. Shell a programování v shellu
 
-Součásti zkoušky:
-● maturitní práce
-● ústní zkouška
+Součásti zkoušky:  
+● maturitní práce  
+● ústní zkouška  
+
 Maturitní práci odevzdává žák v předepsané podobě nejpozději ve stanoveném termínu. Opožděné odevzdání bez
 včasné písemné důvodné omluvy je nepřípustné, žák nebude připuštěn k obhajobě a dílčí zkoušku vykoná
-neúspěšně.
+neúspěšně.  
+
 Součástí ústní zkoušky je praktická úloha, u které bude hodnocena zejména volba vhodných datových struktur
 a algoritmů a schopnost odhadu časové i paměťové složitosti zvoleného řešení. Tam, kde je to vhodné, bude
 požadováno zpracování úlohy dle zásad objektově orientovaného programování: správný návrh tříd s využitím
 zapouzdření, dědičnosti a polymorfismu; návrh rozhraní (interface); generické programování; správné použití výjimek
-apod.
+apod.  
+
 Hodnocení: Dílčí zkouška – maturitní práce je hodnocena body (od vedoucího a oponenta za dokumentaci
 a společně za obhajobu a předvedení funkčnosti), ze kterých se určí klasifikační stupeň podle pravidel hodnocení.
 Dílčí zkouška – ústní zkouška je hodnocena přímo klasifikačním stupněm. Dílčí zkouška je úspěšně vykonána, pokud
