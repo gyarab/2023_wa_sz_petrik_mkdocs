@@ -1,6 +1,12 @@
-# 2023_wa_sz_petrik_mkdocs 
-`pip install requirements`
+# 2023_wa_sz_petrik_mkdocs
+Link to github pages: [2023_wa_sz_petrik_mkdocs](https://gyarab.github.io/2023_wa_sz_petrik_mkdocs/)
 
-[2023_wa_sz_petrik_mkdocs](https://gyarab.github.io/2023_wa_sz_petrik_mkdocs/)
+### Local usage
+1. `source ./venv/Scripts/activate`
+2. `pip install -r requirements.txt`
+3. `mkdocs serve`
 
-*last edited 1.3.2024*
+### Deployment to github pages
+- `mkdocs gh-deploy`
+
+*Last edited 8.3.2024*
